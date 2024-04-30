@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQSABIAAAAAAAAAAAAAAAAAAAAAAAAAAPD/AAAAAAAA8P8PAP/1DwAAAAAAAP//8F9S/wAAAAAAAPD//yUi9Q8AAAAAAABfVVVSVQ8AAAAAAABf9V/1VQ8AAAAAAAD/9V9VXw8AAAAAAADwVVVfXw8AAAAAAADwVVVfXw8AAAAAAAD/9V9VXw8AAAAAAABf9V/1VQ8AAAAAAABfVVVSVQ8AAAAAAPD//yUi9Q8AAAAAAP//8F9S/wAAAAAA8P8PAP/1DwAAAAAAAAAAAPD/AAAAAAAAAAAAAAAAAAAAAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Pikachu"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAPAPAAAAAAAA/w8AAAAAAPBfDwAAAAAA/1UPAAAAAPBfVQ8AAAAA8FVVD/D/AADwVVUP//UAAPBVVf9f/wAA8FVf//UPAADw9V9V/wAAAPD/X1UPAAAA8A9f9Q8AAAAAAF//AAAAAAAA/w8AAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Rayo 1"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
